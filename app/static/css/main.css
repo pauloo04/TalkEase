@@ -1,0 +1,11 @@
+.home-logo {
+    height: auto;
+    width: 400px;
+}
+
+.custom-button{
+    width: 300px;
+    --bs-btn-padding-y: 1rem;
+    --bs-btn-padding-x: 1rem;
+    --bs-btn-font-size: 3rem;
+}
